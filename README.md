@@ -30,6 +30,7 @@ doi: 10.1161/CIRCULATIONAHA.124.070632
 ## body-comp-phenotyping
 
 Body Composition and Cardiovascular Adaptations in the Young: The ALSPAC in London Study
+
 _Valerie Mok*, Priyanka Iyer*, Alicja Rapala, Siana Jones, Marietta Charakida, Frida Dangardt, Vivek Muthurangu, Naveed Sattar, Kaitlin H. Wade, Nicholas J. Timpson, Alun D. Hughes, John E. Deanfield, and Scott T. Chiesa_
 
 Under review
