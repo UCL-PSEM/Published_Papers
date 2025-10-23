@@ -27,7 +27,7 @@ _Arisa Sittichokkananon, Victoria Garfield, and Scott T Chiesa_
 Published in Circulation
 doi: 10.1161/CIRCULATIONAHA.124.070632
 
-## body-comp-phenotyping
+### body-comp-phenotyping
 
 Body Composition and Cardiovascular Adaptations in the Young: The ALSPAC in London Study
 
