@@ -23,6 +23,7 @@ Under review
 ### UKB_PRS_LRS_Dementia
 
 Genetic and Lifestyle Risks for Coronary Artery Disease and Long-Term Risk of Incident Dementia Subtypes
+
 _Arisa Sittichokkananon, Victoria Garfield, and Scott T Chiesa_
 
 Published in Circulation
