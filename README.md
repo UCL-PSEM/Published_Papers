@@ -12,14 +12,6 @@ _Mark J Rawle, Wallis Lau, Arturo Gonzalez-Izquierdo, Praveetha Patalay, Marcus 
 Published in Drugs Aging 
 doi: 10.1007/s40266-024-01116-x
 
-### AdDIT_Metabolomics
-
-Effect of statins and ACE inhibitors on the adolescent metabolome in type 1 diabetes: the Adolescent type 1 Diabetes cardio-renal Intervention Trial (AdDIT)
-
-_Beatrice Prampolini, Anthony Giton, Sofia Frassineti, Paul Benitez-Aguirre, Fergus J Cameron, Maria Craig, Jennifer J Couper, Elizabeth A Davis, R Neil Dalton, Denis Daneman, John E Deanfield, Kim C Donaghue, Tim W Jones, Farid H Mahmud, Sally M Marshall, H Andrew Neil, M Loredana Marcovecchio*, and Scott T Chiesa* on behalf of the Adolescent Type 1 Diabetes cardio-renal Intervention Trial (AdDIT) Study Group_
-
-Under review
-
 ### UKB_PRS_LRS_Dementia
 
 Genetic and Lifestyle Risks for Coronary Artery Disease and Long-Term Risk of Incident Dementia Subtypes
@@ -28,14 +20,6 @@ _Arisa Sittichokkananon, Victoria Garfield, and Scott T Chiesa_
 
 Published in Circulation
 doi: 10.1161/CIRCULATIONAHA.124.070632
-
-### body-comp-phenotyping
-
-Body Composition and Cardiovascular Adaptations in the Young: The ALSPAC in London Study
-
-_Valerie Mok*, Priyanka Iyer*, Alicja Rapala, Siana Jones, Marietta Charakida, Frida Dangardt, Vivek Muthurangu, Naveed Sattar, Kaitlin H. Wade, Nicholas J. Timpson, Alun D. Hughes, John E. Deanfield, and Scott T. Chiesa_
-
-Under review
 
 ### early-life-BMI-cog
 
