@@ -12,6 +12,14 @@ _Mark J Rawle, Wallis Lau, Arturo Gonzalez-Izquierdo, Praveetha Patalay, Marcus 
 Published in Drugs Aging 2024
 doi: 10.1007/s40266-024-01116-x
 
+## AdDIT_Metabolomics
+
+Effect of statins and ACE inhibitors on the adolescent metabolome in type 1 diabetes: the Adolescent type 1 Diabetes cardio-renal Intervention Trial (AdDIT)
+
+_Beatrice Prampolini, Anthony Giton, Sofia Frassineti, Paul Benitez-Aguirre, Fergus J Cameron, Maria Craig, Jennifer J Couper, Elizabeth A Davis, R Neil Dalton, Denis Daneman, John E Deanfield, Kim C Donaghue, Tim W Jones, Farid H Mahmud, Sally M Marshall, H Andrew Neil, M Loredana Marcovecchio*, and Scott T Chiesa* on behalf of the Adolescent Type 1 Diabetes cardio-renal Intervention Trial (AdDIT) Study Group_
+
+Under review in Scientific Reports
+
 ### CMR-ECGi
 
 Technical development and feasibility of a reusable vest to integrate cardiovascular magnetic resonance with electrocardiographic imaging
@@ -56,6 +64,14 @@ _Scott T Chiesa, Tom Norris, Victoria Garfield, Marcus Richards, and Alun D Hugh
 
 Published in Lancet Healthy Longevity 2024
 doi: 10.1016/S2666-7568(24)00005-9
+
+## early-life-bp-cog-brain
+
+Early-life blood pressure and midlife brain and cognitive health: tests in two birth cohorts
+
+_Mayibongwe Mugoba, Renate M. Houts, Annchen R. Knodt, Reremoana F. Theodore, Richie Poulton, Ahmad R. Hariri, Avshalom Caspi, Terrie E. Moffitt, and Scott T. Chiesa_
+
+Under review in Brain Communications
 
 ### lifecourse-MR-brain
 
