@@ -18,7 +18,7 @@ Effect of statins and ACE inhibitors on the adolescent metabolome in type 1 diab
 
 _Beatrice Prampolini, Anthony Giton, Sofia Frassineti, Paul Benitez-Aguirre, Fergus J Cameron, Maria Craig, Jennifer J Couper, Elizabeth A Davis, R Neil Dalton, Denis Daneman, John E Deanfield, Kim C Donaghue, Tim W Jones, Farid H Mahmud, Sally M Marshall, H Andrew Neil, M Loredana Marcovecchio*, and Scott T Chiesa* on behalf of the Adolescent Type 1 Diabetes cardio-renal Intervention Trial (AdDIT) Study Group_
 
-Under review in Scientific Reports
+Manuscript accepted in Scientific Reports
 
 ### CMR-ECGi
 
@@ -71,7 +71,7 @@ Early-life blood pressure and midlife brain and cognitive health: tests in two b
 
 _Mayibongwe Mugoba, Renate M. Houts, Annchen R. Knodt, Reremoana F. Theodore, Richie Poulton, Ahmad R. Hariri, Avshalom Caspi, Terrie E. Moffitt, and Scott T. Chiesa_
 
-Under review in Brain Communications
+Manuscript accepted in Brain Communications
 
 ### lifecourse-MR-brain
 
